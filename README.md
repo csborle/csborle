@@ -9,3 +9,4 @@ nightfury000/nightfury000 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+![microsoft-certified-azure-fundamentals (3)](https://user-images.githubusercontent.com/83269908/213919334-8e47be22-cce0-4c3b-8603-e202dd590a3c.png)
