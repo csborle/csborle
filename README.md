@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![microsoft-certified-azure-fundamentals (3)](https://user-images.githubusercontent.com/83269908/213919334-8e47be22-cce0-4c3b-8603-e202dd590a3c.png)
+
+[![trophy](https://github-profile-trophy.vercel.app/nightfury000ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
