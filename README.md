@@ -13,3 +13,4 @@ You can click the Preview link to take a look at your changes.
 ![microsoft-certified-azure-fundamentals (3)](https://user-images.githubusercontent.com/83269908/213919334-8e47be22-cce0-4c3b-8603-e202dd590a3c.png)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=nightfury000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+![Chandrakant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightfury000&show_icons=true&theme=radical)
