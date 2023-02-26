@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=nightfury000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-![Chandrakant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightfury000&show_icons=true&theme=radical)     [![GitHub Streak](https://streak-stats.demolab.com?user=nightfury000&theme=radical)](https://git.io/streak-stats)
+ ![Chandrakant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightfury000&show_icons=true&theme=radical)     <!--[![GitHub Streak](https://streak-stats.demolab.com?user=nightfury000&theme=radical)](https://git.io/streak-stats) -->  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury000&layout=compact&theme=radical&hide_progress=true)](https://github.com/nightfury000/github-readme-stats)
 
 
