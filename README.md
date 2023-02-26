@@ -10,7 +10,9 @@ nightfury000/nightfury000 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![microsoft-certified-azure-fundamentals (3)](https://user-images.githubusercontent.com/83269908/213919334-8e47be22-cce0-4c3b-8603-e202dd590a3c.png)
+<a href = "https://www.credly.com/badges/08679b66-15fb-4622-a77c-534e18ba8eba/public_url" target = "blank">
+   <img src = "https://user-images.githubusercontent.com/83269908/213919334-8e47be22-cce0-4c3b-8603-e202dd590a3c.png">
+</a>
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=nightfury000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 ![Chandrakant's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightfury000&show_icons=true&theme=radical)     [![GitHub Streak](https://streak-stats.demolab.com?user=nightfury000&theme=radical)](https://git.io/streak-stats)
