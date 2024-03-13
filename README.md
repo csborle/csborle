@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Chandrakant 
 ![](https://komarev.com/ghpvc/?username=nightfury000&style=flat-square)
 - 👀 I’m interested in Cloud, Open Source Tools and Technologies.
-- 🌱 I’m currently pursuing Bachelors in Information Technology.
+- 🌱 I’ve completed my Bachelors in Information Technology in 2023.
+- Currenty I am searching an opportunity to apply my skills
+- I'm familiar with Git, Linux, Docker, Kubernetes, Jenkins, ArgoCD, C++, Python, Cloud(AWS)
 
 <!--[![An image of @chandrakant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandrakant)](https://holopin.io/@chandrakant)
 
