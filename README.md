@@ -5,7 +5,7 @@
 - Currenty I am searching an opportunity to apply my skills
 - I'm familiar with Git, Linux, Docker, Kubernetes, Jenkins, ArgoCD, C++, Python, Cloud(AWS, Azure)
 
-<!--[![An image of @chandrakant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandrakant)](https://holopin.io/@chandrakant)
+[![An image of @chandrakant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandrakant)](https://holopin.io/@chandrakant)
 
 <!---
 nightfury000/nightfury000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
